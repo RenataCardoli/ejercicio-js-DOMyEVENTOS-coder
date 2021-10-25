@@ -2,7 +2,7 @@
 * ejercicio-js-DOMyEVENTOS-coder
 
 ## Descripción
-* Traslada al proyecto integrador el concepto de objetos, visto en la clase de hoy. En función del tipo de simulador que hayas elegido, deberás:
+* En función del tipo de simulador que hayas elegido, deberás:
 * Crear elementos manipulando el DOM a partir de la informaciòn de tus objetos.
 * Modificar etiquetas existentes en función del resultado de operaciones.
 * Archivo HTML y Archivo JS, referenciado en el HTML por etiqueta <script></script>, que incluya la definición de un algoritmo en JavaScript que opere sobre el DOM, modificando, agregando o eliminado elementos.

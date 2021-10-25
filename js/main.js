@@ -115,7 +115,7 @@ function validacion(){
 	if(cant === ""){
 		errores += '<p>¡el campo Cantidad está vacío!</p>';
 	}else if(cant != parseInt(cant)){
-		errores += '<p>Por favor insira un valor númerico válido</p>';
+		errores += '<p>Por favor insira un valor númerico válido en el campo cantidad</p>';
 	}
 	if(valor === ""){
 		errores += '<p>¡el campo Valor está vacío!</p>';
